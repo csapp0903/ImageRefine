@@ -1,0 +1,14 @@
+# .env 和密钥文件
+.env
+*.pem
+*.key
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# 运行时
+server.log
+server.pid
+*.log

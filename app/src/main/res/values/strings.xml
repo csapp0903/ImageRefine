@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ImageRefine</string>
+    <string name="select_photo">选择照片</string>
+    <string name="save_photo">保存照片</string>
+    <string name="save_filter">保存滤镜</string>
+    <string name="my_filters">我的滤镜</string>
+    <string name="apply_filter">应用滤镜</string>
+    <string name="extract_style">提取风格</string>
+    <string name="brightness">亮度</string>
+    <string name="contrast">对比度</string>
+    <string name="saturation">饱和度</string>
+    <string name="warmth">色温</string>
+    <string name="sharpness">锐度</string>
+    <string name="vignette">暗角</string>
+    <string name="highlights">高光</string>
+    <string name="shadows">阴影</string>
+    <string name="tint">色调</string>
+    <string name="exposure">曝光</string>
+    <string name="filter_name">滤镜名称</string>
+    <string name="cancel">取消</string>
+    <string name="confirm">确认</string>
+    <string name="delete">删除</string>
+    <string name="no_filters">暂无保存的滤镜</string>
+    <string name="photo_saved">照片已保存</string>
+    <string name="filter_saved">滤镜已保存</string>
+    <string name="style_extracted">风格已提取</string>
+    <string name="reset">重置</string>
+    <string name="compare">对比原图</string>
+</resources>
